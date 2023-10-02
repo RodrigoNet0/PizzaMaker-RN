@@ -16,9 +16,9 @@ const toppingPrices = {
 };
 
 const pizzaImages = {
-    margherita: 'margherita.jpg',
-    peperoni: 'peperoni.webp',
-    vegetariana: 'vegetariana.jpg'
+    margherita: './images/margherita.jpg',
+    peperoni: './images/peperoni.webp',
+    vegetariana: './images/vegetariana.jpg'
 };
 
 function updateTotal() {
